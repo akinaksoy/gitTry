@@ -1,3 +1,6 @@
 import UIKit
+var x = 2
+var greeting = "Hello, new feature1"
+print(greeting)
 
-var greeting = "Hello, feature1"
+print(x)
